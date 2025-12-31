@@ -1,6 +1,6 @@
 <?php
 // Header común para todas las páginas.
-// Contiene el menú de navegación y el botón de cerrar sesión.
+// Contiene el menú de navegación y el botón para cerrar sesión.
 ?>
 
 <!DOCTYPE html>
