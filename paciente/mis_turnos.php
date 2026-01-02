@@ -1,5 +1,5 @@
 <?php
-// Con este bloque se muestra los turnos asignados al paciente actual.
+// Con este bloque se muestran los turnos asignados al paciente actual.
 
 // Se verifica que el usuario esté autenticado como paciente.
 include '../includes/auth_check.php';
