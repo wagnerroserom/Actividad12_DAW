@@ -8,7 +8,7 @@ if ($_SESSION['rol'] !== 'administrador') {
     exit();
 }
 
-// Incluye la conexión a la base de datos
+// Se incluye la conexión a la base de datos
 include '../config/db.php';
 
 // Obtener todas las estadísticas
