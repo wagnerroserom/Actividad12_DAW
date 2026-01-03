@@ -1,0 +1,1 @@
+ALTER TABLE usuarios AUTO_INCREMENT = 1; -- Script para reiniciar los usuarios desde 1 si se desea.

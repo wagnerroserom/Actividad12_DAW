@@ -1,0 +1,1 @@
+DELETE FROM usuarios; -- Con este script se borran TODOS los usuarios cuando se desee.
