@@ -2,8 +2,8 @@
 -- Este script crea la base de datos y sus tablas para TurnoSalud Montecristi
 
 -- Crear la base de datos (si no existe)
-CREATE DATABASE IF NOT EXISTS turnosalud_montecristi;
-USE turnosalud_montecristi;
+CREATE DATABASE IF NOT EXISTS turnosalud_montecristi12;
+USE turnosalud_montecristi12;
 
 -- Tabla de usuarios
 CREATE TABLE IF NOT EXISTS usuarios (
@@ -42,3 +42,4 @@ CREATE TABLE IF NOT EXISTS turnos (
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id) ON DELETE CASCADE,
     FOREIGN KEY (especialidad_id) REFERENCES especialidades(id) ON DELETE CASCADE,
     UNIQUE KEY unico_turno_dia (usuario_id, fecha)
+)

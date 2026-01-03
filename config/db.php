@@ -2,7 +2,7 @@
 // Configuración de la conexión a la base de datos MySQL utilizando XAMPP.
 $host = 'localhost';            // Servidor de la base de datos
 $usuario_db = 'root';           // Usuario por defecto de MySQL en XAMPP
-$contraseña_db = '';
+$contrasena_db = '';
 $nombre_db = 'turnosalud_montecristi12';  // Nombre de la base de datos
 
 // Crea la conexión

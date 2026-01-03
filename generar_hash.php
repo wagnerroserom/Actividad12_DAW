@@ -1,6 +1,6 @@
 <?php
 // Este script nos ayuda a generar un hash válido para la contraseña que se desee.
-// Para usar este script de debe copiar y ejecutar en el navegador el link: http://localhost/Actividad_12_DAW/generar_hash.php
+// Para usar este script de debe copiar y ejecutar en el navegador el link: http://localhost/Actividad12_DAW/generar_hash.php
 
 $contrasena = 'admin123'; // Cambiar 'admin123' si se requiere otra contraseña
 $hash = password_hash($contrasena, PASSWORD_DEFAULT);

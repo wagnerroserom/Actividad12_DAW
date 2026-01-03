@@ -3,7 +3,7 @@
 // Si no está autenticado lo redirige a la página de inicio.
 
 session_start();
-if (!isset($SESSION['usuario_id'])) {
+if (!isset($_SESSION['usuario_id'])) {
     header("Location: ../index.php");
     exit();
 } 

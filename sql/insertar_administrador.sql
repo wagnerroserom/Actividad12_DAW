@@ -6,6 +6,6 @@ VALUES (
     '1300000003', -- Se debe cambiar con un número de cédula válido.
     '0999999999', -- Se debe cambiar con un número de celular válido.
     'admin@montecristi.gob.ec', -- Se debe cambiar con la dirección de correo que se desee.
-    'INSERTAR_HASH_AQUI', -- Se debe insertar el hash creado con: http://localhost/Actividad_12_DAW/generar_hash.php
+    'INSERTAR_HASH_AQUI', -- Se debe insertar el hash creado con: http://localhost/Actividad12_DAW/generar_hash.php
     'administrador'
 );
