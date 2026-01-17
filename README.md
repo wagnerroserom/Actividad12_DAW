@@ -12,7 +12,7 @@ Requisitos
 XAMPP (Apache + MySQL)
 Navegador web (Chrome, Edge, Brave)
 Pasos
-1.	Copiar la carpeta “Actividad12_DAW” en “C:\xampp\htdocs\”
+1.	Copiar la carpeta “Actividad12_DAW” en “C:\xampp\htdocs\” del siguiente link: https://drive.google.com/file/d/1lwIowccEwA2zpGiYid2qsqTZPy7R9M34/view?usp=sharing
 2.	Iniciar Apache y MySQL desde XAMPP.
 3.	En phpMyAdmin, http://localhost/phpmyadmin/ ejecutar el script “sql/crear_base_datos.sql”
 4.	Ejecutar sql/crear_admin_adm123.sql (con hash creado previamente).
