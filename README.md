@@ -17,6 +17,7 @@ Pasos
 3.	En phpMyAdmin, http://localhost/phpmyadmin/ ejecutar el script “sql/crear_base_datos.sql”
 4.	Ejecutar sql/crear_admin_adm123.sql (con hash creado previamente).
 5.	Acceder a http://localhost/Actividad12_DAW/
+6.	Link de vídeo demostrativo de operatividad: https://drive.google.com/file/d/1UrHkVosNDXpO1l2RIbIayFq8gCvrmvjX/view?usp=sharing
 Credenciales de administrador
 Correo: admin@montecristi.gob.ec
 Contraseña: admin123
