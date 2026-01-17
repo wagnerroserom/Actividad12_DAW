@@ -19,4 +19,4 @@ Pasos
 5.	Acceder a http://localhost/Actividad12_DAW/
 Credenciales de administrador
 Correo: admin@montecristi.gob.ec
-Contraseña: adm123
+Contraseña: admin123
